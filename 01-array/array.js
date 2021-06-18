@@ -1,4 +1,4 @@
 // define an array with 5 elements
-const array = [];
+const arrayNature = ['acquaì', 'mare', 'pioggia', 'sole', 'neve'];
 // console.log() the 3rd element
-console.log();
+console.log( arrayNature [2]);
