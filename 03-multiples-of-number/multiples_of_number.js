@@ -13,6 +13,7 @@ const multiplesOf = (number, limit) => {
     }    
       return multiples;     
         }
+        // console.log(multiplesOf(2, 20))
  
- const multiplesOfTwo = multiplesOf(4, 18)   ;    
+ const multiplesOfTwo = multiplesOf(2, 200);    
 console.log(multiplesOfTwo );
